@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/kanakaero/Performance-Analysis-Airbus-A380M/assets/93387754/74748cec-6b20-4f46-9cdc-67f88f7373ea">
-<p/>
-<br/>
+<img width="600" height="339" alt="image" src="https://github.com/user-attachments/assets/74cfb962-9ffc-47e2-bf9a-30f5a6d8daa2" />
+</p>
 
 # Performance Analysis of the Airbus A380-800M
 
