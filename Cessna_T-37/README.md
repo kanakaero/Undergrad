@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kanakaero/Static-Stability-Cessna-T-37/assets/93387754/40b3b3af-0707-46b0-901d-29b1d53dbe8a">
+  <img width="600" height="339" alt="image" src="https://github.com/user-attachments/assets/1f1eb839-356d-451e-8488-04c7774b32d0" />
 <p/>
 <br/>
 
